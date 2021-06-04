@@ -19,7 +19,6 @@ This service recommends clothes suitable for the weather.
 <br>
 <br>
 
-
 ## Why is this project useful?
 I usually like to wear clothes, but I always check the weather when I think about what to wear today.
 So I made this web service because I wanted to make it useful for other people to think about what to wear.
@@ -55,5 +54,3 @@ You can contact me through this email.
 >21900119@handong.edu
 <br>
 <br>
-
-
