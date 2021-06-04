@@ -41,6 +41,14 @@ Users only need to access the servers provided by raspberrypi.
 <br>
 <br>
 
+## What is your contribution to your project?
+I modified the open source in the way I envisioned it.
+
+1. Among today's weather, only temperature, wind speed, and humidity can be seen.
+2. I recommended different clothes depending on the weather information.
+<br>
+<br>
+
 ## What is the reference?
 Use open(free) weather information data that 'openweathermap' API offer every time server call.
 This sources can use it if you have an API key.
