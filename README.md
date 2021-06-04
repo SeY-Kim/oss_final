@@ -45,10 +45,10 @@ Users only need to access the servers provided by raspberrypi.
 Use open(free) weather information data that 'openweathermap' API offer every time server call.
 This sources can use it if you have an API key.
 
->-Real-time weather data that provides OPEN API.
->https://openweathermap.org/
->-Open source referred to in using html.
->https://github.com/annisapf/Weather-Forecast
+>- Real-time weather data that provides OPEN API.
+> https://openweathermap.org/
+>- Open source referred to in using html.
+> https://github.com/annisapf/Weather-Forecast
 <br>
 <br>
 
