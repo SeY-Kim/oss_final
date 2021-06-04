@@ -1,4 +1,4 @@
-# oss_final
+# What should I wear today?
 <h1 align="center">Welcome to my 21-1 OSS final project</h1>
 
 
