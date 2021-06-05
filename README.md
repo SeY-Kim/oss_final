@@ -36,7 +36,7 @@ Users only need to access the servers provided by raspberrypi.
 
 1. Connect to the same local Internet connection as the raspberrypi server.
 2. Turn on your web browser.
-3. Available by typing ip http://(ip_address)/index.html in a web browser.
+3. Available by typing http://(ip_address)/index.html in a web browser.
 4. Search for your current location or city you want to know.
 <br>
 <br>
