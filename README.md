@@ -46,6 +46,7 @@ I modified the open source in the way I envisioned it.
 
 1. Among today's weather, only temperature, wind speed, and humidity can be seen.
 2. I recommended different clothes depending on the weather information.
+3. I made them print out the appropriate image along with the clothes recommendation.
 <br>
 <br>
 
